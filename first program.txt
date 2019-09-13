@@ -1,5 +1,5 @@
 hello
 my name is sai kumar
 this is my first program
-i am writing my first program
-i am learning devops through github
+it is second of my online practising
+learning devops through online classes
